@@ -1,0 +1,14 @@
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\obj\Debug\net8.0\StudentsSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\obj\Debug\net8.0\StudentsSystemProject.AssemblyInfoInputs.cache
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\obj\Debug\net8.0\StudentsSystemProject.AssemblyInfo.cs
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\obj\Debug\net8.0\StudentsSystemProject.csproj.CoreCompileInputs.cache
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\bin\Debug\net8.0\StudentsSystemProject.exe
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\bin\Debug\net8.0\StudentsSystemProject.deps.json
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\bin\Debug\net8.0\StudentsSystemProject.runtimeconfig.json
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\bin\Debug\net8.0\StudentsSystemProject.dll
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\bin\Debug\net8.0\StudentsSystemProject.pdb
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\obj\Debug\net8.0\StudentsSystemProject.dll
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\obj\Debug\net8.0\refint\StudentsSystemProject.dll
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\obj\Debug\net8.0\StudentsSystemProject.pdb
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\obj\Debug\net8.0\StudentsSystemProject.genruntimeconfig.cache
+F:\ProgrammingTeam\HighLevel_OOP\StudentsSystemProject\StudentsSystemProject\obj\Debug\net8.0\ref\StudentsSystemProject.dll
